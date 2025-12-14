@@ -1,1 +1,1 @@
-The relevant data and parameters are integrate into the a file
+The relevant data and parameters are integrated into the a file
